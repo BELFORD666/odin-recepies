@@ -3,10 +3,27 @@
     color: rgb(224, 139, 224);
 }
 .re-box{
-    background-color: blueviolet;
+    background-color: rgb(225, 226, 156);
     color: sienna;
+    height: 500px;
+    padding: 200px;
+    padding-bottom: 0px;
 }
 .st-box{
     background-color: bisque;
     color: aqua;
+}
+.home-box{
+    width: 500px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+.in-box{
+    padding: 50px;
+    width: 18px;
+   
+
+}
+body{
+    background-color: aquamarine;
 }
